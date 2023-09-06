@@ -1,3 +1,6 @@
+# Ignore agents
+agents
+
 # Logs
 logs
 *.log
